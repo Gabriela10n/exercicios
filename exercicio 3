@@ -1,0 +1,22 @@
+Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 28/11/2022
+Var
+// Seção de Declarações das variáveis 
+Val:real
+dobro:real
+terco:real
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+leia(val)
+dobro<-(val+2)
+escreval(dobro)
+terco<-(val/3)
+escreval(terco)
+
+
+Fimalgoritmo
