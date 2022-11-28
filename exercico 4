@@ -1,0 +1,20 @@
+Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 28/11/2022
+Var
+// Seção de Declarações das variáveis 
+met: real
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+leia(met)
+escreval(met, " ", "Metros equivale a: ")
+escreval(met/10, " ", "dam")
+escreval(met/100, " ", "hm")
+escreval(met/1000, " ", "km")
+
+
+Fimalgoritmo
